@@ -37,6 +37,27 @@
 
 18.[在react中是如何发送ajax请求的](https://github.com/Dogtiti/Blogs/issues/41)
 
+19.[有两个相同state，一个在constructor里，一个在constructor外，为什么效果会显示constructor里的](https://github.com/Dogtiti/Blogs/issues/43)
+
+20.[改变this指针的方法有哪些？有什么区别？](https://github.com/Dogtiti/Blogs/issues/44)
+
+21.[函数的柯里化](https://github.com/Dogtiti/Blogs/issues/45)
+
+22.[闭包](https://github.com/Dogtiti/Blogs/issues/46)
+
+23.[react diff 原理](https://github.com/Dogtiti/Blogs/issues/47)
+
+24.[从后台获取数据一定要放在componentDidMount里面调用，为什么不能在constructor或者componentWillMount里面调用？有什么不同？](https://github.com/Dogtiti/Blogs/issues/48)
+
+25.[同一个组件里有两次调用setState()，但是只会执行一次render函数，为什么？怎么解决？](https://github.com/Dogtiti/Blogs/issues/49)
+
+26.[复制对象的方法](https://github.com/Dogtiti/Blogs/issues/50)
+
+27.[cookie，sessionStorage，localStorage的区别](https://github.com/Dogtiti/Blogs/issues/51)
+
+28.[react中的路由的使用](https://github.com/Dogtiti/Blogs/issues/52)
+
+
 
 ## 前端框架系列
 1.[React生命周期图](https://github.com/Dogtiti/Blogs/issues/21)
